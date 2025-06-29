@@ -1,5 +1,5 @@
---Rakshit Gupta
---ID: CT_CSI_SQ_4156
+--Gulshan Kumar
+--ID: CT_CSI_SQ_5556
 CREATE PROCEDURE AllocateElectives
 AS
 BEGIN
